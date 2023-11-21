@@ -2,14 +2,14 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/HellCat-IV?style=social) ![GitHub stars](https://img.shields.io/github/stars/HellCat-IV?style=social)
 
-Bienvenue sur la page officielle de HellCat-IV, votre hub pour des outils de cybersécurité open source innovants. Notre mission est de fournir des outils puissants pour améliorer la sécurité informatique et éduquer la communauté sur les menaces de cybersécurité actuelles.
+Bienvenue sur la page officielle de HellCat-IV ! 
 
-## Projets
+## Nos Projets :
 
 ### HybridShare ![GitHub last commit](https://img.shields.io/github/last-commit/HellCat-IV/HybridShare)
 Un outil de partage de fichiers utilisant un modèle hybride (client-serveur + peer-to-peer), codé en Python. Idéal pour ceux qui cherchent à partager des fichiers rapidement et en toute sécurité.
 
-### Ransomware ![GitHub issues](https://img.shields.io/github/issues/HellCat-IV/Ransomware)
+### Ransomware ![GitHub issues](https://img.shields.io/github/last-commit/HellCat-IV/Ransomware)
 Un projet éducatif codé en Python, démontrant le fonctionnement des ransomwares. Il génère des clés RSA pour chiffrer et déchiffrer des fichiers, tout en simulant des messages de demande de rançon pour un apprentissage pratique.
 
 ## Contribution
