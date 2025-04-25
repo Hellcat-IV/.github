@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/HellCat-IV?style=social) ![GitHub stars](https://img.shields.io/github/stars/HellCat-IV?style=social)
 
-Welcome to the official HellCat-IV page! 
+Welcome to the official Forensick page! 
 
 ## Our Projects :
 
