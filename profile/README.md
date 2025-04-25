@@ -5,6 +5,8 @@
 Welcome to the official Forensick page! 
 
 ## Our Projects :
+### Morpheus ![GitHub last commit](https://img.shields.io/github/last-commit/HellCat-IV/Morpheus)
+Code:Morpheus is the Cybersecurity LAB project by Forensick. All the roadmap, papers, scripts etc. will be open-sourced.
 
 ### HybridShare ![GitHub last commit](https://img.shields.io/github/last-commit/HellCat-IV/HybridShare)
 A file-sharing tool using a hybrid model (client-server + peer-to-peer), coded in Python. Ideal for those looking to share files quickly and securely.
